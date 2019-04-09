@@ -146,6 +146,8 @@ img {
         display: none;
     }
     .paragraph {
-        margin-top: 170px;
+        margin-top: 10em;
+        padding-bottom: 5em;
+        width: auto;
     }
   }
