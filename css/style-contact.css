@@ -146,4 +146,9 @@ img {
     h2 {
         display: none;
     }
+    .paragraph {
+        margin-top: 15em;
+        padding-bottom: 5em;
+        width: auto;
+    }
   }
